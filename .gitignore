@@ -1,0 +1,16 @@
+# CMake build
+build/
+out/
+
+# Object files / libraries
+*.o
+*.a
+*.so
+*.dll
+*.lib
+*.exe
+
+# Editor
+.vscode/
+.idea/
+compile_commands.json
